@@ -2,8 +2,11 @@
 
     "OWNER_ID":"",
     "BOT_TOKEN": "",
-    "tenorAPI":"ZEEELJXAFQBN",
-    "DEFAULT_PREFIX":"!",
+    "tenorAPI":"",
+    "DEFAULT_PREFIX":"",
     "mongoPass": "",
-    "ERROR_LOGS_CHANNEL": ""
+    "ERROR_LOGS_CHANNEL": "",
+    "YT_COOKIE": ""
+    
 }
+
